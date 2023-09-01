@@ -7,7 +7,7 @@ class Employee {
   
 // Inherited or Sub Class
 class Engineer extends Employee {
-    int benefits = 10000;
+    int benefits = 5000; //change in value
 }
   
 // Driver Class
